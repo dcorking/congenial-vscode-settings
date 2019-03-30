@@ -1,0 +1,6 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.fontSize": 13,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Tomorrow Night Bright",
+}
