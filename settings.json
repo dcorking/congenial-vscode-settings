@@ -3,4 +3,8 @@
     "editor.fontSize": 13,
     "git.autofetch": true,
     "workbench.colorTheme": "Tomorrow Night Bright",
+    "breadcrumbs.enabled": true,
+    "gitlens.keymap": "alternate",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
 }

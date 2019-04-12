@@ -1,5 +1,14 @@
+code --install-extension bung87.rails
+code --install-extension bung87.vscode-gemfile
+code --install-extension castwide.solargraph
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension huizhou.githd
+code --install-extension jnbt.vscode-rufo
 code --install-extension lfs.vscode-emacs-friendly
 code --install-extension ms-vscode.Theme-TomorrowKit
 code --install-extension noku.rails-run-spec-vscode
 code --install-extension PeterJausovec.vscode-docker
+code --install-extension rebornix.ruby
+code --install-extension sianglim.slim
 code --install-extension Thadeu.vscode-run-rspec-file
